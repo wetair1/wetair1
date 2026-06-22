@@ -18,7 +18,7 @@
 
 | Project | What it does |
 | --- | --- |
-| [**iptui**](https://github.com/wetair1/iptui) | Terminal IP toolkit — 26 tools (geo, DNS, WHOIS, subnet, port scan…) with ASCII art + TUI |
+| [**iptui**](https://github.com/wetair1/iptui) | Terminal IP toolkit — 52 tools (geo, DNS, WHOIS, subnet, port scan…) with ASCII art + TUI |
 | [**devdash**](https://github.com/wetair1/devdash) | ASCII dev-profile dashboard — GitHub / GitLab / Codeforces stats with an interactive TUI |
 | [**asciidash**](https://github.com/wetair1/asciidash) | Configurable ASCII info dashboard — clock, CPU / RAM / disk, weather, calendar |
 | [**ddtui**](https://github.com/wetair1/ddtui) | DDraceNetwork player stats + live server browser in a curses UI |
@@ -55,7 +55,7 @@
 
 | Проект | Что делает |
 | --- | --- |
-| [**iptui**](https://github.com/wetair1/iptui) | Терминальный IP-инструментарий — 26 инструментов (гео, DNS, WHOIS, подсети, скан портов…) с ASCII-артом и TUI |
+| [**iptui**](https://github.com/wetair1/iptui) | Терминальный IP-инструментарий — 52 инструмента (гео, DNS, WHOIS, подсети, скан портов…) с ASCII-артом и TUI |
 | [**devdash**](https://github.com/wetair1/devdash) | ASCII-дашборд профиля разработчика — статистика GitHub / GitLab / Codeforces с TUI |
 | [**asciidash**](https://github.com/wetair1/asciidash) | Настраиваемый ASCII-дашборд — часы, CPU / RAM / диск, погода, календарь |
 | [**ddtui**](https://github.com/wetair1/ddtui) | Статистика игроков DDraceNetwork + живой браузер серверов |
