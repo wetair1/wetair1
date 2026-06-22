@@ -6,15 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://wetair1.github.io"><img src="https://img.shields.io/badge/website-wetair1.github.io-black"></a>
   <img src="https://img.shields.io/badge/python-3.8%2B-blue">
   <img src="https://img.shields.io/badge/focus-terminal%20%2F%20CLI-lightgrey">
   <img src="https://img.shields.io/badge/dependencies-0-success">
   <img src="https://img.shields.io/badge/license-MIT-green">
-</p>
-
-<p align="center">
-  🌐 <b><a href="https://wetair1.github.io">wetair1.github.io</a></b>
 </p>
 
 ---
@@ -23,6 +18,7 @@
 
 | Project | What it does |
 | --- | --- |
+| [**iptui**](https://github.com/wetair1/iptui) | Terminal IP toolkit — 26 tools (geo, DNS, WHOIS, subnet, port scan…) with ASCII art + TUI |
 | [**devdash**](https://github.com/wetair1/devdash) | ASCII dev-profile dashboard — GitHub / GitLab / Codeforces stats with an interactive TUI |
 | [**asciidash**](https://github.com/wetair1/asciidash) | Configurable ASCII info dashboard — clock, CPU / RAM / disk, weather, calendar |
 | [**ddtui**](https://github.com/wetair1/ddtui) | DDraceNetwork player stats + live server browser in a curses UI |
@@ -55,14 +51,11 @@
   Без зависимостей, работают везде.
 </p>
 
-<p align="center">
-  🌐 <b><a href="https://wetair1.github.io">wetair1.github.io</a></b>
-</p>
-
 ### 🧰 Проекты
 
 | Проект | Что делает |
 | --- | --- |
+| [**iptui**](https://github.com/wetair1/iptui) | Терминальный IP-инструментарий — 26 инструментов (гео, DNS, WHOIS, подсети, скан портов…) с ASCII-артом и TUI |
 | [**devdash**](https://github.com/wetair1/devdash) | ASCII-дашборд профиля разработчика — статистика GitHub / GitLab / Codeforces с TUI |
 | [**asciidash**](https://github.com/wetair1/asciidash) | Настраиваемый ASCII-дашборд — часы, CPU / RAM / диск, погода, календарь |
 | [**ddtui**](https://github.com/wetair1/ddtui) | Статистика игроков DDraceNetwork + живой браузер серверов |
