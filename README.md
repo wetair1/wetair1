@@ -6,10 +6,15 @@
 </p>
 
 <p align="center">
+  <a href="https://wetair1.github.io"><img src="https://img.shields.io/badge/website-wetair1.github.io-black"></a>
   <img src="https://img.shields.io/badge/python-3.8%2B-blue">
   <img src="https://img.shields.io/badge/focus-terminal%20%2F%20CLI-lightgrey">
   <img src="https://img.shields.io/badge/dependencies-0-success">
   <img src="https://img.shields.io/badge/license-MIT-green">
+</p>
+
+<p align="center">
+  🌐 <b><a href="https://wetair1.github.io">wetair1.github.io</a></b>
 </p>
 
 ---
@@ -48,6 +53,10 @@
 <p align="center">
   Python-разработчик, делаю лёгкие терминальные приложения — ASCII-дашборды, TUI и CLI-утилиты.<br>
   Без зависимостей, работают везде.
+</p>
+
+<p align="center">
+  🌐 <b><a href="https://wetair1.github.io">wetair1.github.io</a></b>
 </p>
 
 ### 🧰 Проекты
