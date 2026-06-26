@@ -26,6 +26,23 @@
 | [**tuxgotchi**](https://github.com/wetair1/tuxgotchi) | Terminal ASCII tamagotchi with a living room |
 | [**campfire**](https://github.com/wetair1/campfire) | Animated ASCII campfire with chatting Linux penguins |
 
+## 🧪 ASCII micro tools
+
+Small stdlib-only curses utilities. Each repo includes `main.py`, README, project metadata, contributing guide and architecture notes.
+
+| Project | What it does |
+| --- | --- |
+| [**ascii-syscope**](https://github.com/wetair1/ascii-syscope) | Live system monitor for CPU, RAM, disk, load average and uptime |
+| [**ascii-netwatch**](https://github.com/wetair1/ascii-netwatch) | Network interface watcher with RX / TX speed bars |
+| [**ascii-diskmap**](https://github.com/wetair1/ascii-diskmap) | Directory disk usage mapper with scrollable ASCII bars |
+| [**ascii-procview**](https://github.com/wetair1/ascii-procview) | Process viewer sorted by RSS memory usage |
+| [**ascii-logtail**](https://github.com/wetair1/ascii-logtail) | Live log tail viewer with keyboard scrolling |
+| [**ascii-taskgrid**](https://github.com/wetair1/ascii-taskgrid) | Tiny terminal task board with local JSON storage |
+| [**ascii-portscan**](https://github.com/wetair1/ascii-portscan) | Lightweight TCP port scanner with a curses progress UI |
+| [**ascii-cpumap**](https://github.com/wetair1/ascii-cpumap) | Per-core CPU heatmap for Linux terminals |
+| [**ascii-filetree**](https://github.com/wetair1/ascii-filetree) | Scrollable ASCII file tree viewer |
+| [**ascii-pingboard**](https://github.com/wetair1/ascii-pingboard) | Ping dashboard for multiple hosts with latency history |
+
 ## 🛠 Stack
 
 `Python` · `curses / TUI` · `standard library only` · `Linux`
@@ -62,6 +79,23 @@
 | [**iuse**](https://github.com/wetair1/iuse) | ASCII-баннеры "I USE ARCH BTW" — 432 дистрибутива и 72 DE / WM |
 | [**tuxgotchi**](https://github.com/wetair1/tuxgotchi) | Терминальный ASCII-тамагочи с комнатой |
 | [**campfire**](https://github.com/wetair1/campfire) | Анимированный ASCII-костёр с болтающими пингвинами Linux |
+
+### 🧪 ASCII micro tools
+
+Маленькие curses-утилиты без зависимостей. В каждой репе есть `main.py`, README, метаданные проекта, contributing-гайд и заметки по архитектуре.
+
+| Проект | Что делает |
+| --- | --- |
+| [**ascii-syscope**](https://github.com/wetair1/ascii-syscope) | Системный монитор CPU, RAM, диска, load average и uptime |
+| [**ascii-netwatch**](https://github.com/wetair1/ascii-netwatch) | Слежение за RX / TX скоростью сетевых интерфейсов |
+| [**ascii-diskmap**](https://github.com/wetair1/ascii-diskmap) | Карта использования диска по папкам с ASCII-барами |
+| [**ascii-procview**](https://github.com/wetair1/ascii-procview) | Просмотр процессов с сортировкой по RSS-памяти |
+| [**ascii-logtail**](https://github.com/wetair1/ascii-logtail) | Live tail логов с прокруткой в терминале |
+| [**ascii-taskgrid**](https://github.com/wetair1/ascii-taskgrid) | Мини-доска задач с локальным JSON-хранилищем |
+| [**ascii-portscan**](https://github.com/wetair1/ascii-portscan) | Лёгкий TCP-сканер портов с curses-прогрессом |
+| [**ascii-cpumap**](https://github.com/wetair1/ascii-cpumap) | Per-core CPU heatmap для Linux-терминала |
+| [**ascii-filetree**](https://github.com/wetair1/ascii-filetree) | Прокручиваемое ASCII-дерево файлов |
+| [**ascii-pingboard**](https://github.com/wetair1/ascii-pingboard) | Ping-дашборд для нескольких хостов с историей задержек |
 
 ### 🛠 Стек
 
